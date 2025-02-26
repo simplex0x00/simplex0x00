@@ -1,12 +1,12 @@
 <h1 align="center">Hola 👋, soy SimpleX</h1>
 <h3 align="left">🚀 ¡Potencia tu proyecto con un SimpleX apasionado por la programación! 🖥️ Si buscas un experto en C#, C, C++, Java, JavaScript, Python y PHP, has llegado al lugar correcto. No soy solo un programador, soy un arquitecto del código, un hacker entusiasta que transforma ideas en soluciones eficientes, seguras y escalables.
 <p></p>
-🔹 ¿Qué puedo hacer por ti? <p>
-✅ Desarrollo de software a medida
+🔹 ¿Qué puedo hacer por ti? <p></p>
+✅ Desarrollo de software a medida\n
 ✅ Seguridad informática y pruebas de penetración
 ✅ Creación de aplicaciones web y móviles
 ✅ Automatización y optimización de procesos
-✅ Resolución de problemas complejos con código limpio y eficiente Con un enfoque creativo y estratégico, me sumerjo en cada proyecto con pasión y determinación. No hay reto imposible, solo soluciones por descubrir. 💡</p> <p></p>
+✅ Resolución de problemas complejos con código limpio y eficiente Con un enfoque creativo y estratégico, me sumerjo en cada proyecto con pasión y determinación. No hay reto imposible, solo soluciones por descubrir. 💡 <p></p>
 
 ¿Listo para llevar tu proyecto al siguiente nivel? Contáctame y hagamos magia con el código. 🚀<p></p></h3>
 

@@ -21,7 +21,7 @@
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.gg/4ENWVkrFrK" target="blank"><img align="center" src="https://raw.githubusercontent.com/simplex0x00/0x00/b87bca5e5681b35a846f70f0c2ea5e334d4da902/discord.svg" alt="https://discord.gg/4ENWVkrFrK" height="30" width="40" /></a>
+<a href="https://discord.gg/4ENWVkrFrK" target="blank"><img align="center" src="https://raw.githubusercontent.com/simplex0x00/0x00/b87bca5e5681b35a846f70f0c2ea5e334d4da902/discord.svg" alt="https://discord.gg/4ENWVkrFrK" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>

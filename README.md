@@ -3,13 +3,9 @@
 <p></p>
 🔹 ¿Qué puedo hacer por ti? <p></p>
 ✅ Desarrollo de software a medida
-  
 ✅ Seguridad informática y pruebas de penetración
-
 ✅ Creación de aplicaciones web y móviles
-
 ✅ Automatización y optimización de procesos
-
 ✅ Resolución de problemas complejos con código limpio y eficiente Con un enfoque creativo y estratégico, me sumerjo en cada proyecto con pasión y determinación. No hay reto imposible, solo soluciones por descubrir.💡
 <p></p>
 

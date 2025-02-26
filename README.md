@@ -2,13 +2,13 @@
 <h3 align="left">🚀 ¡Potencia tu proyecto con un SimpleX apasionado por la programación! 🖥️ Si buscas un experto en C#, C, C++, Java, JavaScript, Python y PHP, has llegado al lugar correcto. No soy solo un programador, soy un arquitecto del código, un hacker entusiasta que transforma ideas en soluciones eficientes, seguras y escalables.
 <p></p>
 🔹 ¿Qué puedo hacer por ti? <p></p>
-✅ Desarrollo de software a medida <p></p>
-✅ Seguridad informática y pruebas de penetración <p></p>
-✅ Creación de aplicaciones web y móviles <p></p>
-✅ Automatización y optimización de procesos <p></p>
+✅ Desarrollo de software a medida
+✅ Seguridad informática y pruebas de penetración
+✅ Creación de aplicaciones web y móviles
+✅ Automatización y optimización de procesos
 ✅ Resolución de problemas complejos con código limpio y eficiente Con un enfoque creativo y estratégico, me sumerjo en cada proyecto con pasión y determinación. No hay reto imposible, solo soluciones por descubrir. 💡 <p></p>
 
-¿Listo para llevar tu proyecto al siguiente nivel? Contáctame y hagamos magia con el código.<p></p> 🚀</h3>
+¿Listo para llevar tu proyecto al siguiente nivel? Contáctame y hagamos magia con el código. 🚀<p></p></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simplex0x00&label=Profile%20views&color=0e75b6&style=flat" alt="simplex0x00" /> </p>
 

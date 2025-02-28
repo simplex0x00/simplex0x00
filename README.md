@@ -30,7 +30,7 @@
 ---
 
 ## 📩 **Contáctame**  
-📬 **Email:** [xxxxxxxxxxx@gmail.com](mailto:xxxxxxxxxxx@gmail.com)  
+📬 **Email:** [contacto@simplex0.com@gmail.com](mailto:contacto@simplex0.com)  
 🎤 **Discord:** [Únete a mi server](https://discord.gg/4ENWVkrFrK)  
 💬 **Dime hola y dime qué necesitas, juntos podemos hacerlo posible.**  
 

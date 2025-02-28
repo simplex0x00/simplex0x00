@@ -1,42 +1,47 @@
 <h1 align="center">🚀 ¡Hola, soy SimpleX! 👋</h1>
 
-<h3 align="center">Un apasionado programador y arquitecto del código 🖥️</h3>
+<h3 align="center">⚡ Programador | Hacker entusiasta | Arquitecto del Código ⚡</h3>
 
 <p align="center">
-  Si buscas un experto en <strong>C#, C, C++, Java, JavaScript, Python y PHP</strong>, has llegado al lugar correcto. 
-  No solo escribo código, lo perfecciono, lo optimizo y lo transformo en soluciones seguras, escalables y eficientes.  
+  🖥️ Vivo y respiro código. Si puedes imaginarlo, yo puedo programarlo.  
+  No solo escribo líneas de código, **les doy vida.** 🎨💡  
+  ¿Un software de alto rendimiento? ¿Un exploit elegante? ¿Un diseño web que deslumbre? **Cuenta conmigo.**  
 </p>
 
 ---
 
-### 🛠️ **¿Qué puedo hacer por ti?**  
-✅ **Desarrollo de software a medida** – Desde herramientas avanzadas hasta sistemas completos.  
-✅ **Seguridad informática y pruebas de penetración** – Tu código más seguro que nunca.  
-✅ **Creación de aplicaciones web y móviles** – Sitios, APIs y aplicaciones con las mejores tecnologías.  
-✅ **Automatización y optimización de procesos** – Menos esfuerzo, más eficiencia.  
-✅ **Resolución de problemas complejos** – Código limpio, bien estructurado y potente.  
-
-💡 **No hay reto imposible, solo soluciones esperando ser descubiertas.**  
+## 🌟 **Sobre mí**  
+🕶️ **Código en mi ADN:** Desde C++, C#, Java hasta JavaScript, Python y PHP.  
+💡 **Solucionador de problemas:** No hay bug que pueda conmigo, y si lo hay, lo convierto en feature.  
+🎮 **Gamer y Dev:** Desarrollo, hackeo y optimizo videojuegos. También los juego (por "testing").  
+🔥 **Amante de los retos:** ¿Algo imposible? Dámelo. Los desafíos alimentan mi alma.  
 
 ---
 
-### 📩 **¿Listo para llevar tu proyecto al siguiente nivel?**
-📬 **Contáctame:** [xxxxxxxxxxx@gmail.com](mailto:xxxxxxxxxxx@gmail.com)  
-💬 **Pregúntame sobre:** C++, React, C# y más, estoy aquí para ayudarte.  
-⚡ **Dato curioso:** Soy un loco de la programación 🤓  
+## 🛠️ **¿Qué puedo hacer por ti?**  
+✅ **Desarrollo de software a medida** – Desde aplicaciones hasta herramientas avanzadas.  
+✅ **Ciberseguridad y pruebas de penetración** – ¿Tu código es seguro? Yo te lo digo (y lo mejoro).  
+✅ **Creación de aplicaciones web y móviles** – Frontend, backend, full stack… todo lo que necesites.  
+✅ **Automatización y optimización** – Porque el tiempo es oro, y tu código también debería serlo.  
+✅ **Resolución de problemas complejos** – ¿Código sucio? Lo limpio. ¿Errores raros? Los exorcizo.  
+
+🎯 **Mi lema:** "Si algo no funciona, haz que funcione. Si funciona, hazlo mejor."  
 
 ---
 
-<h3 align="left">🌍 Conéctate conmigo:</h3>
-<p align="left">
-  <a href="https://discord.gg/4ENWVkrFrK" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/simplex0x00/0x00/b87bca5e5681b35a846f70f0c2ea5e334d4da902/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-</p>
+## 📩 **Contáctame**  
+📬 **Email:** [xxxxxxxxxxx@gmail.com](mailto:xxxxxxxxxxx@gmail.com)  
+🎤 **Discord:** [Únete a mi server](https://discord.gg/4ENWVkrFrK)  
+💬 **Dime hola y dime qué necesitas, juntos podemos hacerlo posible.**  
+
+🔹 **Pregúntame sobre:** C++, React, C#, optimización de código y… ¿cuál es la mejor pizza? (spoiler: con piña NO).  
+
+⚡ **Fun fact:** No solo programo, **tengo una relación seria con mi teclado.** (Sí, con retroiluminación RGB).  
 
 ---
 
-<h3 align="left">🛠️ Tecnologías y herramientas:</h3>
+## 🏆 **Mis habilidades y herramientas favoritas**  
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -56,9 +61,24 @@
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
 </p>
 
+🎯 **Extras:**  
+- **Linux lover** 🐧 (porque Windows me obliga a reiniciar por todo).  
+- **Docker master** 🐳 (contenedores más organizados que mi habitación).  
+- **Ciberseguridad fanático** 🔐 (pero solo lo bueno, no el lado oscuro).  
+- **Unity & Unreal Engine** 🎮 (porque el código también puede ser divertido).  
+
 ---
 
+## 📊 **Mis estadísticas de GitHub**  
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simplex0x00&show_icons=true&locale=en&layout=compact" alt="simplex0x00" />
 </p>
 
+---
+
+## 🎉 **¡Hablemos de tu proyecto!**  
+🚀 **Si quieres un código limpio, eficiente y poderoso, aquí estoy.**  
+💡 **Si tienes una idea loca y quieres hacerla realidad, cuéntamela.**  
+😎 **Si solo quieres hablar de tecnología y compartir memes, también es válido.**  
+
+🔥 **¡Contáctame y hagamos algo increíble!** 🔥
